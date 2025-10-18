@@ -1,0 +1,13 @@
+Name = SPRK
+Age = 30
+Gender = Female
+Name = Pranjal Sharma
+Age = 40
+Gender = Female
+Name = Memon Abdul gani
+Age = 25
+Gender = Male
+Name = kusum
+
+Age = 18
+Gender = female
